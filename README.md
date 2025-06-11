@@ -71,3 +71,5 @@ The model learns patterns and anomalies in transaction behavior.
 
  ### This project is useful for:
   Real-time fraud detection in banking systems.
+
+[Dataset link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
